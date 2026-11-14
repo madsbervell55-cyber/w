@@ -152,7 +152,7 @@
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "sni": false,
             "tls-fingerprint": null,
             "daemon": false,
@@ -185,3 +185,4 @@
     "watch": true,
     "pause-on-battery": false,
     "pause-on-active": false
+}
