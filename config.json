@@ -116,7 +116,7 @@
             [8, 12],
             [8, 14]
         ],
-        "rx": [],
+        "rx": [0, 1, 2],
         "rx/wow": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
         "cn-lite/0": false,
         "cn/0": false,
@@ -143,17 +143,7 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": "null",
-            "coin": "null",
-            "url": "gulf.moneroocean.stream:20128",
-            "user": "82tgFChY2EDDFjqLP1KYPjQB88HiqvG57StCSswJMMCmRD4TPqTSGaAKF665GkQFN4H8Y98w4UJM7SyFnzszmQxM1EZA373",
-            "pass": "x",
-            "rig-id": null,
-            "nicehash": false,
-            "keepalive": true,
-            "enabled": true,
-            "tls": true,
-            "sni": false,
+            "
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
