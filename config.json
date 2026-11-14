@@ -152,7 +152,7 @@
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
-            "tls": true,
+            "tls": false,
             "sni": false,
             "tls-fingerprint": null,
             "daemon": false,
